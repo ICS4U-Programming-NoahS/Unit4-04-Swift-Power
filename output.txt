@@ -1,0 +1,7 @@
+423 ^ 0 = 1
+'3 Noah' contains invalid whole numbers.
+21 ^ 1 = 21
+2 ^ 3 = 8
+'' does not contain enough numbers.
+3 ^ 6 = 729
+'Hello' does not contain enough numbers.
